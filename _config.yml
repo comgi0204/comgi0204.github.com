@@ -9,14 +9,14 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Beyond error
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Beyond error는 코딩하는데 많은 오류가 있더라도 도중에 뿌리치지 않고 완성하겠다는 다짐"
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         comgisul0204.github.io
   stackexchange:  
   linkedin:       
   instagram:      
